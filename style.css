@@ -1,0 +1,10 @@
+img {
+    display: block;
+    position: center;
+    justify-content: center;
+    border-radius: 20px;
+    height: 100%;
+    transition: width 0.5s ease-in, height 0.5s ease-out;
+}
+
+p { font-size: 2rem; }
